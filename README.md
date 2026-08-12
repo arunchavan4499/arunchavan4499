@@ -3,7 +3,7 @@
 # 👋 About Me
 
 Hi — I'm **Arun Chavan**, a Computer Science Engineering student and
-full-stack developer with hands-on experience building responsive web
+full-stack developer(MERN) with hands-on experience building responsive web
 applications, REST APIs, and backend functionality.
 
 I mainly work with **React.js, Node.js, Express.js, FastAPI, PostgreSQL, MongoDB,
