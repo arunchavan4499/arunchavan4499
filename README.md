@@ -1,6 +1,5 @@
-## Hi there 👋
 
-<!--
+
 # 👋 About Me
 
 Hi — I'm **Arun Chavan**, a Computer Science Engineering student and
@@ -49,4 +48,3 @@ and enjoy building practical software solutions.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-chavan-2560243aa/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arunchavan.vercel.app/)
--->
