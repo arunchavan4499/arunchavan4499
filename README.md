@@ -6,7 +6,7 @@ Hi — I'm **Arun Chavan**, a Computer Science Engineering student and
 full-stack developer with hands-on experience building responsive web
 applications, REST APIs, and backend functionality.
 
-I mainly work with **React.js, Node.js, FastAPI, PostgreSQL, MongoDB,
+I mainly work with **React.js, Node.js, Express.js, FastAPI, PostgreSQL, MongoDB,
 and Supabase**. I'm also interested in **cloud computing and AI**
 and enjoy building practical software solutions.
 
