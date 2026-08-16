@@ -6,18 +6,16 @@ Hi — I'm **Arun Chavan**, a Computer Science Engineering student and
 full-stack developer(MERN) with hands-on experience building responsive web
 applications, REST APIs, and backend functionality.
 
-I mainly work with **React.js, Node.js, Express.js, FastAPI, PostgreSQL, MongoDB,
-and Supabase**. I'm also interested in **cloud computing and AI**
-and enjoy building practical software solutions.
+I mainly work in **frontend and backend development**. I’m also interested in **cloud computing and AI**, and I enjoy building practical software solutions.
 
 ## 🛠️ Skills
 
-- **Programming:** Java, JavaScript (ES6), Python, SQL
-- **Frontend:** React.js, Tailwind CSS
-- **Backend:** Node.js, Express.js, FastAPI
-- **Databases:** MySQL, PostgreSQL, MongoDB, Supabase
-- **Core CS:** DSA, OOP, DBMS, Operating Systems, Computer Networks
-- **Tools & Cloud:** Git, GitHub, AWS EC2, AWS S3, Docker, Vercel, VS Code
+-**Programming Languages**: Java, JavaScript (ES6+), SQL
+-**Frontend Development**: Html5,CSS3, React.js, Tailwind CSS
+-**Backend Development**: Node.js, Express.js, FastAPI
+-**Databases**: MySQL, PostgreSQL, MongoDB
+-**Core Computer Science**: Data Structures & Algorithms (DSA), OOP, DBMS, Operating Systems, Computer Networks
+-**Tools & Cloud**: Git, GitHub, Docker, AWS (EC2, S3), Vercel, Supabase, VS Code
 
 ## 💻 Tech Stack
 
