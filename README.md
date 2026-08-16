@@ -10,12 +10,17 @@ I mainly work in **frontend and backend development**. I’m also interested in 
 
 ## 🛠️ Skills
 
--**Programming Languages**: Java, JavaScript (ES6+), SQL
--**Frontend Development**: Html5,CSS3, React.js, Tailwind CSS
--**Backend Development**: Node.js, Express.js, FastAPI
--**Databases**: MySQL, PostgreSQL, MongoDB
--**Core Computer Science**: Data Structures & Algorithms (DSA), OOP, DBMS, Operating Systems, Computer Networks
--**Tools & Cloud**: Git, GitHub, Docker, AWS (EC2, S3), Vercel, Supabase, VS Code
+**Programming Languages**: Java, JavaScript (ES6+), SQL
+
+**Frontend Development**: Html5,CSS3, React.js, Tailwind CSS
+
+**Backend Development**: Node.js, Express.js, FastAPI
+
+**Databases**: MySQL, PostgreSQL, MongoDB
+
+**Core Computer Science**: Data Structures & Algorithms (DSA), OOP, DBMS, Operating Systems, Computer Networks
+
+**Tools & Cloud**: Git, GitHub, Docker, AWS (EC2, S3), Vercel, Supabase, VS Code
 
 ## 💻 Tech Stack
 
