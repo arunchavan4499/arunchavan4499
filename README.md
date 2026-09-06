@@ -16,7 +16,7 @@ I mainly work in **frontend and backend development**. I’m also interested in 
 
  **Backend Development**: Node.js, Express.js, REST API's
 
- **Databases**: MySQL, PostgreSQL, MongoDB
+ **Databases**: MySQL, PostgreSQL
 
  **Core Computer Science**: Data Structures & Algorithms (DSA), OOP, DBMS, Operating Systems, Computer Networks
 
@@ -37,7 +37,7 @@ I mainly work in **frontend and backend development**. I’m also interested in 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
