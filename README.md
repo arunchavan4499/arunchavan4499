@@ -14,7 +14,7 @@ I mainly work in **frontend and backend development**. I’m also interested in 
 
  **Frontend Development**: Html5,CSS3, React.js, Tailwind CSS
 
- **Backend Development**: Node.js, Express.js, FastAPI
+ **Backend Development**: Node.js, Express.js, Rest API's
 
  **Databases**: MySQL, PostgreSQL, MongoDB
 
